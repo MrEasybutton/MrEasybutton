@@ -6,5 +6,4 @@ Check out my upcoming game at https://easybutton-studios.itch.io/pseudomento.
 
 Also check out my hobby OS at https://github.com/MrEasybutton/kOSeki.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEasybutton&show_icons=true&theme=radical)]
 
